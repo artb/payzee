@@ -1,0 +1,7 @@
+# APP FOR DIGITALIZING RU TICKETS
+## artb, cloped, mathbalon
+
+Backend:
+	API ROUTES IN NODEJS : CLOPED
+Raspberrypi-reader:
+	RASPBERRYPI QR CODE READER USING PYCAMERA : ARTB
